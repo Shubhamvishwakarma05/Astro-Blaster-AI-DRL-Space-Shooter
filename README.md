@@ -44,15 +44,4 @@ dqn_astro_smart_move.pth (optional): Pre-trained model weights
 Credits
 Built by [Your Name] as a showcase of DRL and game development skills.
 
-### How to Use It
-1. **Create the File**:
-   - Open a text editor (Notepad, VS Code, PyCharm), paste this in, and save as `README.md` in `E:\PycharmProjects\AstroBlasterAI`.
-2. **Add Video Link**:
-   - After recording and uploading your gameplay to YouTube (per the deployment steps), replace `https://youtu.be/xyz123` with your actual link.
-3. **Push to GitHub**:
-   - From your project folder:
-     ```bash
-     git add README.md
-     git commit -m "Added README with project details"
-     git push
-Or if it’s your first push, follow the full setup from the deployment method.
+
