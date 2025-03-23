@@ -74,4 +74,9 @@ Record and include a gameplay video in the README.
 Contributing
 Feel free to fork this repo, submit pull requests, or open issues for bugs and feature suggestions!
 
+Author
+👤 Shubham Vishwakarma
+
+LinkedIn: Shubham Vishwakarma
+GitHub: Shubhamvishwakarma05
 
