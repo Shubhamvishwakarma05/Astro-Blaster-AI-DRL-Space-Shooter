@@ -5,7 +5,10 @@ A deep reinforcement learning project where an AI-controlled spaceship dodges en
 
 
 
-https://github.com/user-attachments/assets/8702e8be-cc97-4111-8c2a-ecc735e9bfff
+
+https://github.com/user-attachments/assets/177613f6-e0d4-4982-898d-ee64ed781b27
+
+
 
 
 ## Overview
