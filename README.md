@@ -4,7 +4,9 @@
 A deep reinforcement learning project where an AI-controlled spaceship dodges enemies and blasts asteroids in a dynamic 2D space game.
 
 
-https://github.com/user-attachments/assets/cfaf0c27-120e-49db-87e6-d95ec358cafb
+
+https://github.com/user-attachments/assets/8702e8be-cc97-4111-8c2a-ecc735e9bfff
+
 
 ## Overview
 
