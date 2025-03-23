@@ -3,7 +3,13 @@
 
 A deep reinforcement learning project where an AI-controlled spaceship dodges enemies and blasts asteroids in a dynamic 2D space game.
 
+
+https://github.com/user-attachments/assets/cfaf0c27-120e-49db-87e6-d95ec358cafb
+
 ## Overview
+
+
+
 This project uses Deep Q-Learning (DQN) with a target network to train an agent that navigates a spaceship, avoiding obstacles and scoring points by shooting asteroids (+2) and enemies (+5), with a -5 penalty for collisions.
 
 ## How to Run
